@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arpherne.github.io/sitemap
+Sitemap: https://arpherne.github.io/app/sitemap
+Sitemap: https://arpherne.github.io/assets/sitemap
+Sitemap: https://arpherne.github.io/css/sitemap
+Sitemap: https://arpherne.github.io/includes/sitemap
+Sitemap: https://arpherne.github.io/item/sitemap
+Sitemap: https://arpherne.github.io/src/sitemap
